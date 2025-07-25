@@ -1,7 +1,7 @@
 <h1>8051_Based_Auto_Billing_Shopping_Cart</h1> 
 A project, where we created an 8051 Based Auto Billing Setup, entirely coded in Assembly.
 
-<h2>Demonstration</h2>
+<h2>Demonstration Video</h2>
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=Ds7VO0wFrH0
 " target="_blank"><img src="https://github.com/user-attachments/assets/66428515-0969-4ff7-8b93-dc1e8f09434a" 
 alt="IMAGE ALT TEXT HERE" border="10" /></a>
